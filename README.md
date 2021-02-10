@@ -8,6 +8,7 @@ use commands as
 example h7 h6
 
 chess program. enter moves in algebraic notation separated by space
+  
   1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --------------------------------
 a|♖ | ♙ |   |   |   |   | ♟ | ♜ | 
